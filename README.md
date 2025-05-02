@@ -62,4 +62,3 @@ Feedback, proofreading suggestions, and edits are all welcome! Email me at: 2091
 ## License
 
 Firetongue © 2025 by Nicholas Jondan is licensed under Creative Commons Attribution-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
-# Firetongue
