@@ -55,7 +55,9 @@ I provide this work **as-is** — a starting point for others to build on. While
 
 ## How to Contribute
 
-Feedback, proofreading suggestions, and edits are all welcome! Email me at: 209172582+stumbleforge@users.noreply.github.com
+Feedback, proofreading suggestions, and edits are all welcome! Fill out [this form](https://tally.so/r/wv17qD) and I'll get back to you as soon as I can.
+
+Note: only serious messages will be responded to. Vague or unrelated messages will be ignored.
 
 ---
 
